@@ -4,16 +4,9 @@ I'm a CS student at UOWD who loves exploring the intersection of tech, business,
 
 ### 🧠 Machine Learning
 **[Customer Clustering & Review Analysis]**  
-Clustering customer personas using KMeans and simulating AI-generated product reviews to assist Apple’s product testing strategy.  
+Assist Apple’s product testing strategy by creating customer personas using clustering & logistic regression to predict scores for new product by each persona, and integrated LLM for a chat-based analysis.
 **Tech:** Python, Pandas, scikit-learn, OpenAI API  
-**Highlights:** Used demographic clustering, GPT-4-based review generation, data visualization
-
-### 📊 Power BI Dashboard
-**[Retail Sales Performance Dashboard]**  
-Analyzed key sales metrics and trends for a fictional retail company.  
-**Tech:** Power BI, DAX, Excel  
-**Link:** [View Dashboard](live-link)  
-*OR include image here if no live link*
+**Highlights:** ML Models, Data Cleaning & Visualization, AI Integration
 
 ### 🌐 Fullstack App
 **[AI Flashcard Generator]**  
