@@ -29,7 +29,7 @@ Fullstack web app where students input topics and receive GPT-powered study flas
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
 </p>
 
-<p align="center">Technologies</p>
+<h3 align="center">Technologies</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
