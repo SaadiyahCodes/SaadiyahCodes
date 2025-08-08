@@ -1,13 +1,12 @@
 # 👋 Hey, let's build!
 
-I'm a CS student at UOWD who loves exploring the intersection of tech, business, and impact.</br>
 i enjoy:</br>
 🚀 building meaningful applications (fullstack/AI/data)  
 🤝 leading communities / taking initiative to spark change  
 
 ---
 
-## Languages & Tools
+### Languages & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="python"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="javascript"/>  
@@ -29,11 +28,11 @@ i enjoy:</br>
 
 ---
 
-## 📈 Projects I've Built
+### 📈 Projects I've Built
 
-- **🧠 iPersona** – A virtual customer simulation system for Apple products using clustering, ML & GPT  
-- **🎓 StarProfs** – A RAG-based chat app that matches students with professors from Rate My Professor using Pinecone
-- **📚 AI Flashcard Generator** – Creates AI-generated flashcards from any topic using LLM, Material UI & Firebase
+- **iPersona** – A virtual customer simulation system for Apple products using clustering, ML & GPT  
+- **StarProfs** – A RAG-based chat app that matches students with professors from Rate My Professor using Pinecone
+- **AI Flashcard Generator** – Creates AI-generated flashcards from any topic using LLM, Material UI & Firebase
 
 ---
 
