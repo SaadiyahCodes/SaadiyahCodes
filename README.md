@@ -1,40 +1,50 @@
-# 👋 Hi, Saadiyah here!
+# 👋 Hey, let's build!
 
-I'm a CS student at UOWD who loves exploring the intersection of tech, business, and impact. Here are a few projects I'm proud of:
-
-### 🧠 Machine Learning
-**[Virtual Customer Persona Simulation](https://github.com/SaadiyahCodes/iPersona_ML)**  
-Used KMeans clustering & logistic regression to predict new Apple product scores, with LLM-powered chat analysis for smart insights.
-**Tech:** Python, Pandas, scikit-learn, OpenAI API  
-**Highlights:** ML Model, Data Cleaning & Visualization, AI Integration
-
-### 🌐 Fullstack App
-**[AI Flashcard Generator](https://github.com/SaadiyahCodes/AceCards)**  
-Fullstack web app where students input topics and receive GPT-powered study flashcards.  
-**Tech:** React, Node.js, Firebase, OpenAI  
-**Features:** Auth, API integration, dynamic card generation
-
-<h3 align="center">Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</p>
-
-<h3 align="center">Technologies</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-</p>
+I'm a CS student at UOWD who loves exploring the intersection of tech, business, and impact.</br>
+i enjoy:</br>
+🚀 building meaningful applications (fullstack/AI/data)  
+🤝 leading communities / taking initiative to spark change  
 
 ---
+
+## 🛠️ Languages & Tools
+
+### Languages  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>  
+
+### Data & Tools  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="40"/>  
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" width="40"/>  
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>  
+
+### Frameworks  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>  
+
+### Cloud & Platforms  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>  
+
+---
+
+## 📈 Projects I've Built
+
+- **🧠 iPersona** – A virtual customer simulation system for Apple products using clustering, ML & GPT  
+- **🎓 StarProfs** – A RAG-based chat app that matches students with professors using Rate My Professor data  
+- **📚 AI Flashcard Generator** – Create spaced repetition flashcards from any text or lecture  
+
+---
+
+```markdown
+![Saadiyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadiyahCodes&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadiyahCodes&layout=compact)
+
+
