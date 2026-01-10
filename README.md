@@ -3,8 +3,7 @@
 i enjoy:</br>
 🚀 building meaningful applications (fullstack/AI/data)  
 🤝 leading communities / taking initiative to spark change  
-
----
+<br/>
 
 ### Languages & Tools
 <p align="left">
@@ -26,31 +25,23 @@ i enjoy:</br>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>  
 </p>
 
----
-
-### 📈 Projects I've Built
+### Projects I've Built
 
 - **iPersona** – A virtual customer simulation system for Apple products using clustering, ML & GPT  
 - **StarProfs** – A RAG-based chat app that matches students with professors from Rate My Professor using Pinecone
 - **AI Flashcard Generator** – Creates AI-generated flashcards from any topic using LLM, Material UI & Firebase
-
----
+<br/>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-stats-three-roan-70.vercel.app/api?username=SaadiyahCodes&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img width="435" src="https://github-readme-stats-three-roan-70.vercel.app/api?username=SaadiyahCodes&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img width="330" src="https://github-readme-stats-three-roan-70.vercel.app/api/top-langs/?username=SaadiyahCodes&layout=compact&hide_border=true&theme=tokyonight" />
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats-three-roan-70.vercel.app/api/top-langs/?username=SaadiyahCodes&layout=compact&hide_border=true&theme=tokyonight" />
-  </p>
-
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=SaadiyahCodes&theme=tokyonight&hide_border=true" />
-  </p>
 </details>
+
 
 
