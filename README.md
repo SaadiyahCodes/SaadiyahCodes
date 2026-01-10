@@ -37,12 +37,20 @@ i enjoy:</br>
 ---
 
 <details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" src="https://github-readme-stats-three-roan-70.vercel.app/api?username=SaadiyahCodes&show_icons=true&hide_border=true" />
+  <summary>:zap: GitHub Stats</summary>
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats-three-roan-70.vercel.app/api?username=SaadiyahCodes&show_icons=true&hide_border=true&theme=tokyonight" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-stats-three-roan-70.vercel.app/api/top-langs/?username=SaadiyahCodes&layout=compact&hide_border=true&theme=tokyonight" />
+  </p>
+
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=SaadiyahCodes&theme=tokyonight&hide_border=true" />
+  </p>
 </details>
 
 
-| <img src="/github-stats.svg" alt="Metrics" width="100%">    |  <img src="/top-langs.svg" alt="Metrics" width="100%">   |
-| --- | --- |
-
-_Stats last updated: 8/25_
