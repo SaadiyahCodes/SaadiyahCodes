@@ -36,7 +36,11 @@ i enjoy:</br>
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SaadiyahCodes&show_icons=true&theme=tokyonight)
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" src="https://github-readme-stats-saadiyahcodes-projects.vercel.app/api?username=SaadiyahCodes&show_icons=true&hide_border=true" />
+</details>
+
 
 | <img src="/github-stats.svg" alt="Metrics" width="100%">    |  <img src="/top-langs.svg" alt="Metrics" width="100%">   |
 | --- | --- |
