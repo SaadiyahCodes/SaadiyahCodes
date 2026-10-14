@@ -27,9 +27,9 @@ i enjoy:</br>
 
 ### Projects I've Built
 
-- **iPersona** – A virtual customer simulation system for Apple products using clustering, ML & GPT  
-- **StarProfs** – A RAG-based chat app that matches students with professors from Rate My Professor using Pinecone
-- **AI Flashcard Generator** – Creates AI-generated flashcards from any topic using LLM, Material UI & Firebase
+- **Gusto** – A customer experience layer for restaurant platforms with multilingual and voice support for accessibility and focus on allergen safety.  
+- **StarProfs** – A RAG-based chat app that matches students with professors from Rate My Professor using Pinecone.
+- **UAE INTL Opportunities** – A github repository with opportunities for students in the UAE and global.
 <br/>
 
 <details>
